@@ -276,8 +276,8 @@ pytest tests/ -v
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/whatif-ai.git
-cd whatif-ai
+git clone https://github.com/rajeshmishra-11/Data-science-project.git
+cd Data-science-project
 
 # 2. Create an isolated virtual environment
 # On Windows (PowerShell / Command Prompt):
@@ -326,8 +326,8 @@ git commit -m "feat: release WhatIf AI v2.0 academic capstone project"
 # 6. Ensure default branch is main
 git branch -M main
 
-# 7. Add your GitHub remote repository (replace with your repo URL)
-git remote add origin https://github.com/<your-username>/whatif-ai.git
+# 7. Add your GitHub remote repository
+git remote add origin https://github.com/rajeshmishra-11/Data-science-project.git
 
 # 8. Push to GitHub
 git push -u origin main
@@ -343,7 +343,7 @@ Streamlit Community Cloud allows free, one-click hosting directly connected to y
 1. **Sign In**: Go to **[share.streamlit.io](https://share.streamlit.io)** and log in using your GitHub account.
 2. **New Application**: Click the **"New app"** button in the dashboard.
 3. **Repository Details**:
-   - **Repository**: Select `your-username/whatif-ai`
+   - **Repository**: Select `rajeshmishra-11/Data-science-project`
    - **Branch**: `main`
    - **Main file path**: `app.py`
 4. **Advanced Settings (Optional)**:
